@@ -7,7 +7,7 @@ Navigate to the project directory using cd command
 
 Install dependencies 
 command : npm install 
-create .env and set value of the port as indicated in env.dev file 
+create .env and set value of the port as indicated in .dev.env file 
 
 Run the application by 
 command:npm run dev 
