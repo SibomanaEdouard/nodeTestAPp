@@ -1,6 +1,7 @@
 Make sure you have installed git and node 
+
 Clone the application by running the following command
-git clone 
+git clone https://github.com/SibomanaEdouard/nodeTestAPp.git
 
 Navigate to the project directory using cd command
 
